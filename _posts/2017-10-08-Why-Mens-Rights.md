@@ -1,5 +1,5 @@
 ---
-permalink: maenner.html
+permalink: men.html
 ---
 
 Gleichberechtigung ist keine Einbahnstraße.
