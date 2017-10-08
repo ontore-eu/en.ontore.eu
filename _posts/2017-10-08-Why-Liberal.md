@@ -1,5 +1,5 @@
 ---
-permalink: liberale.html
+permalink: liberal.html
 ---
 
 Wir bekennen uns zur Liberalen Westlichen Tradition in ihrer Gesamtheit.
