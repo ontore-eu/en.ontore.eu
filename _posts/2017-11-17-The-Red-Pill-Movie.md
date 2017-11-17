@@ -1,7 +1,8 @@
-
 ---
+
 permalink: theredpillmovie.html
 title: "International Mens Day: The Red Pill Movie screeing in Vienna"
+
 ---
 
 On [International Men's Day 2017](https://www.youtube.com/watch?v=MGrpKpFSBj4) we are showing [The Red Pill Movie](http://theredpillmovie.com/) in English with German subtitles in Vienna, Austria.
