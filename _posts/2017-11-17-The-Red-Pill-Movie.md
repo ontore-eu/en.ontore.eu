@@ -1,7 +1,7 @@
 ---
 
 permalink: theredpillmovie.html
-title: "International Mens Day: The Red Pill Movie screeing in Vienna"
+title: "International Mens Day: The Red Pill Movie screening in Vienna"
 
 ---
 
