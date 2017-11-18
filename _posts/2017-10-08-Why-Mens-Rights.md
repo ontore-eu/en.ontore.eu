@@ -2,6 +2,7 @@
 permalink: men.html
 ---
 
+![Blume](http://res.cloudinary.com/liberalemaenner/image/upload/v1511003931/cosmos-flower-1949_960_720_cwgk9x.jpg)
 Gleichberechtigung ist keine Einbahnstraße.
 Wo es Frauenrechte gibt, muss es auch Männerrechte geben.
 Männer haben legitime politische Interessen und die müssen in einer Demokratie politisch vertreten werden.
