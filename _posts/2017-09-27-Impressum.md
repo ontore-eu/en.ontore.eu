@@ -2,10 +2,10 @@
 permalink: impressum.html
 ---
 
-Für den Inhalt verantwortlich:
+Impress:
 
 Liberale Männer<br />
 c/o Oliver Hoffmann<br />
 Karolinengasse 31/20<br />
 1040 Wien<br />
-Österreich<br />
+Austria<br />
