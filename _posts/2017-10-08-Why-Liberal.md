@@ -9,12 +9,12 @@ Overall, this western cultural heritage contains political principles, philosoph
 Thus, comprehensive western liberalism contains groups historically perceived as competitors or even enemies, such as liberal christians, radical democrats or homosexuals.
 But any ideology supporting freedom of speech and protection from tyranny is still part of this liberal heritage.
 
-# Was heißt "Liberal" nicht?
+# What is not "liberal" for us?
 
-Nur, was eine Grenze hat, kann bestehen.
-Beliebigkeit lehnen wir ab.
-Übertriebene Toleranz gegenüber antiwestlichen Ideologien führt zur Zerstörung der liberalen Grundordnung und ist daher ebeso abzulehnen.
-Der Versuch, die Errungenschaften der westlichen Aufklärung durch fundamentalistische Religionen wie den Islam zu zerstören, muss frühzeitig und konsequent unterbunden werden.
-Gegen anti-liberale Entwicklungen aus dem Westen wenden wir uns genauso deutlich:
-Radikaler Feminismus, Faschismus, Kommunismus und postmoderne Strömungen wie Gendertheorien sind gegen die Grundsätze der Aufklärung und gegen die Bürgerrechte gerichtet und daher mit dem Bekenntnis zur liberalen westlichen Tradition unverträglich.
-Liberale Grundsätze können nur bestehen, wenn sie aktiv verteidigt werden.
+Existance requires limits.
+We reject arbitrary relativism.
+Exaggerated tolerance of antiwestern ideologies leads to the destruction of our liberal order and has to be rejected also.
+Any attempt of dismantling the progress achieved by western enlightment via fundamentalist religions such as islam has to be promptly and forcefully thwarted.
+We are equally opposed to anti-liberal developments from within the west:
+Radical feminism, fascism, communism, and postmodern developments such as the gender ideology are in direct opposition to the fundamental tenets of the enlightenment, eroding civil rights and therefore incompatible with our commitment to liberal western tradition.
+Liberal tenets can only survive when they are actively protected.
