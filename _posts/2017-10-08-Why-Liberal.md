@@ -2,11 +2,11 @@
 permalink: liberal.html
 ---
 
-We are committed to Liberal Western Tradition in it's entirety.
-Western principles of freedom and accountability are based in deep European traditions, ranging from the Renaissance via Enlightenment to Modernity.
-Liberal principles have been developed over centuries for preventing tyranny and enabling the rule of mature citizens.
-Overall, this Western cultural heritage contains political principles, philosophical ideas, scientific achievments and religious interpretations.
-Thus, comprehensive Western Liberalism contains groups historically perceived as competitors or even enemies, such as liberal Christians, radical democrats or homosexuals.
+We are committed to liberal western tradition in it's entirety.
+Western principles of freedom and accountability are based in deep European traditions, ranging from the renaissance via the enlightenment to modernity.
+Liberal principles have been developed over centuries for preventing and opposing tyranny and enabling the rule of mature citizens.
+Overall, this western cultural heritage contains political principles, philosophical ideas, scientific achievments and religious interpretations.
+Thus, comprehensive western liberalism contains groups historically perceived as competitors or even enemies, such as liberal christians, radical democrats or homosexuals.
 But any ideology supporting freedom of speech and protection from tyranny is still part of this liberal heritage.
 
 # Was heißt "Liberal" nicht?
