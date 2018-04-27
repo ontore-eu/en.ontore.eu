@@ -2,12 +2,12 @@
 permalink: liberal.html
 ---
 
-Wir bekennen uns zur Liberalen Westlichen Tradition in ihrer Gesamtheit.
-Die westlichen Grundsätze der Freiheit und Eigenverantwortung wurzeln in einer langen Entwicklung in Europa, von der Renaissance über die Aufklärung bis in die Moderne.
-Liberale Grundsätze haben sich über die Jahrhunderte entwickelt, um staatliche Willkür zu verhindern und Menschen aus ihrer Unmündigkeit zu befreien.
-In ihrer Gesamtheit beinhaltet dieses kulturelle Erbe politische Grundsätze, aber auch philosophische Ideen, wissenschaftliche Erungenschaften und religiöse Interpretationen.
-Damit enthält der umfassende westliche Liberalismus Gruppierungen, die sich historisch zeitweise als politische Gegner empfunden haben, wie liberale christliche Traditionen, radikale Demokraten oder Homosexuelle.
-So lange eine Ideologie die Freiheit der Meinungsäußerung und den Schutz vor Willkür unterstützt, ist sie Teil dieses liberalen Erbes.
+We are committed to Liberal Western Tradition in it's entirety.
+Western principles of freedom and accountability are based in deep European traditions, ranging from the Renaissance via Enlightenment to Modernity.
+Liberal principles have been developed over centuries for preventing tyranny and enabling the rule of mature citizens.
+Overall, this Western cultural heritage contains political principles, philosophical ideas, scientific achievments and religious interpretations.
+Thus, comprehensive Western Liberalism contains groups historically perceived as competitors or even enemies, such as liberal Christians, radical democrats or homosexuals.
+But any ideology supporting freedom of speech and protection from tyranny is still part of this liberal heritage.
 
 # Was heißt "Liberal" nicht?
 
