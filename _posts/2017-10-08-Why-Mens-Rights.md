@@ -19,15 +19,14 @@ Without the explicit protection of men's rights, our society falls apart.
 Nobody can choose to be a man.
 But we can own up to being men and to supporting other men and mankind.
 
-# Was verstehen wir nicht unter Männerrechten?
+# What are not men's rights?
 
-Jede Diskussion über das "richtige" oder "falsche" "Frauenbild" oder "Männerbild" lenkt vom Kern liberaler Werte ab:
-Dem Schutz vor staatlicher Willkür.
-Wenn staatliche Politik davon Abstand nimmt,
-ein bestimmtes Idealbild von Männern oder Frauen zu fördern oder zu verhindern,
-dann können Menschen selbstbestimmt entscheiden, wie sie glücklich werden wollen.
-Wir wollen daher weder zurück zu einer bestimmten traditionellen Rollenaufteilung zwischen den Geschlechtern
-noch nach vorne zu einem bestimmten (postmodernen) Bild des gegenderten Menschen.
-Statt dessen fordern wir Respekt vor der menschlichen Natur,
-Respekt vor der individuellen Selbstbestimmung
-und Respekt vor den unterschiedlichen westlichen liberalen Lebensentwürfen.
+Discussions on "gender identity" are diverting attention from the core liberal value:
+Protection from tyrrany.
+Governments should refrain from attempting to further or obstruct some specific male or female role model,
+so people can execute their free choice on pursuing their own happyness.
+We therefore neither intend to go back to a specific traditional distribution of roles among the sexes,
+nor do we intend to go forward to some specifc (postmodern) gender utopia.
+We rather demand respect for human nature,
+respect for autonomy and individual choice and 
+respect for the various western liberal ways of life.
