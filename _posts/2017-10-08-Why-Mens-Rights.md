@@ -2,20 +2,22 @@
 permalink: men.html
 ---
 
-![Blume](http://res.cloudinary.com/liberalemaenner/image/upload/v1511003931/cosmos-flower-1949_960_720_cwgk9x.jpg)
-Gleichberechtigung ist keine Einbahnstraße.
-Wo es Frauenrechte gibt, muss es auch Männerrechte geben.
-Männer haben legitime politische Interessen und die müssen in einer Demokratie politisch vertreten werden.
-Auch Männer haben ein Recht auf Schutz vor staatlicher Willkür.
-Auch Männer wollen ein selbstbestimmtes Leben führen.
-Menschenrechte können keine reinen Frauenrechte sein.
-Gleichberechtigung und Gleichstellung kann ohne Männerrechte nicht funktionieren.
-Ohne Männer gibt es keine politische Mitte.
-Ohne politische Mitte zerfällt die Demokratie.
-Das offene Eintreten für Männerrechte dient daher auch dem Schutz der Demokratie insgesamt.
-Niemand kann sich aussuchen, ein Mann zu sein.
-Aber wir können uns dazu bekennen,
-uns für uns selbst und andere Männer einzusetzen.
+Equality is a symmetrical concept.
+And so are equal rights.
+As much as women's rights are introduced under the umbrella of equal rights,
+men's rights have to be introduced just the same.
+Men have legitimate political interests and these interests have to be represented in a democracy.
+Men have the right to be protected from tyranny, too.
+Men have the right to autonomy, too.
+Men want to have choice, too.
+Human rights cannot be reduced to women's rights.
+Equality needs men's rights.
+Equal rights have to include men's rights on par with women's rights.
+Without men, the political center crumbles.
+Without men, democracy fails.
+Without the explicit protection of men's rights, our society falls apart. 
+Nobody can choose to be a man.
+But we can own up to being men and to supporting other men and mankind.
 
 # Was verstehen wir nicht unter Männerrechten?
 
