@@ -22,11 +22,11 @@ But we can own up to being men and to supporting other men and mankind.
 # What are not men's rights?
 
 Discussions on "gender identity" are diverting attention from the core liberal value:
-Protection from tyrrany.
+Protection from tyranny.
 Governments should refrain from attempting to further or obstruct some specific male or female role model,
-so people can execute their free choice on pursuing their own happyness.
+so people can execute their free choice on pursuing their own happiness.
 We therefore neither intend to go back to a specific traditional distribution of roles among the sexes,
-nor do we intend to go forward to some specifc (postmodern) gender utopia.
+nor do we intend to go forward to some specific (postmodern) gender utopia.
 We rather demand respect for human nature,
 respect for autonomy and individual choice and 
 respect for the various western liberal ways of life.
