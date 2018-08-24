@@ -13,9 +13,8 @@ Austria<br />
 
 ## Contact:
 
-<form action="https://formspree.io/oliver@liberalemaenner.at"
-      method="POST">
-    <input type="text" placeholder="Name" name="name" required>
-    <input type="email" placeholder="Email" name="_replyto" required>
-    <input type="submit" value="Send">
+<form method="POST" action="https://formspree.io/oliver@liberalemaenner.at" required>
+  <input type="email" name="email" placeholder="Your email" required>
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
