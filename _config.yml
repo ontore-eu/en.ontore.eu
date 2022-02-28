@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "de"
-title                    : "Liberale Männer"
+locale                   : "en"
+title                    : "Ontore"
 title_separator          : " "
-name                     : "Liberale Männer"
-description              : "Equal Rights for Men"
-url                      : "http://en.liberalemaenner.at"
+name                     : "Ontore"
+description              : "IT Project in the EU"
+url                      : "http://en.ontore.eu"
 baseurl                  : "/"
 logo                     : "http://res.cloudinary.com/liberalemaenner/image/upload/fl_any_format.sanitize,q_auto:good/v1506622690/liberale-maenner-oesterreich-logo-gross-jekyll-minimal-mistakes-web-tuerkis_r0ccic.svg"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
